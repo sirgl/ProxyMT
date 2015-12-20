@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/parser/RequestParser.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/parser/RequestParser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/parser/Request.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClientConnection.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SocketException.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ClientConnection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Proxy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cache/CacheEntry.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cache/CacheStorage.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cache/CacheStorage.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ServerConnection.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tools.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tools.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IOException.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ServerConnection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ProxyException.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Proxy.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
